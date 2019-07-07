@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Proyecto Colecciones</string>
+    <string name="ingresar_rut">Ej. 12345678-8</string>
+</resources>
